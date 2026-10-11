@@ -1,0 +1,38 @@
+name: Build NMU Wrestler Images
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: nmu-wrestler-image-build
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 55
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install image tools
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests pillow rembg onnxruntime
+      - name: Retry only missing wrestler images
+        run: python scripts/build_wrestler_images.py
+      - name: Commit generated assets
+        run: |
+          git config user.name "NMU Asset Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add wrestlers/
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Retry missing NMU wrestler image assets"
+            git push
+          fi

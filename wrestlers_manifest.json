@@ -1,0 +1,637 @@
+[
+  {
+    "id": 2,
+    "name": "Al Snow",
+    "roster": "Main Roster",
+    "aliases": [
+      "Al Snow wrestler"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Big Boss Man",
+    "roster": "Main Roster",
+    "aliases": [
+      "Big Boss Man wrestler",
+      "Ray Traylor wrestler"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Big Show",
+    "roster": "Main Roster",
+    "aliases": [
+      "Big Show wrestler"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Billy Kidman",
+    "roster": "HeAT",
+    "aliases": [
+      "Billy Kidman wrestler"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "British Bulldog",
+    "roster": "Main Roster",
+    "aliases": [
+      "British Bulldog wrestler",
+      "Davey Boy Smith wrestler"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Bull Buchanan",
+    "roster": "Main Roster",
+    "aliases": [
+      "Bull Buchanan wrestler"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Chris Benoit",
+    "roster": "Main Roster",
+    "aliases": [
+      "Chris Benoit wrestler"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Chris Jericho",
+    "roster": "HeAT",
+    "aliases": [
+      "Chris Jericho wrestler"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Christian",
+    "roster": "Main Roster",
+    "aliases": [
+      "Christian wrestler"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Chyna",
+    "roster": "Main Roster",
+    "aliases": [
+      "Chyna wrestler"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Crash Holly",
+    "roster": "Main Roster",
+    "aliases": [
+      "Crash Holly",
+      "Michael Lockwood wrestler"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "D-Von Dudley",
+    "roster": "Main Roster",
+    "aliases": [
+      "D-Von Dudley",
+      "Devon Hughes wrestler"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "D'Lo Brown",
+    "roster": "Main Roster",
+    "aliases": [
+      "D'Lo Brown wrestler"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Dean Malenko",
+    "roster": "Main Roster",
+    "aliases": [
+      "Dean Malenko wrestler"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Eddie Guerrero",
+    "roster": "Main Roster",
+    "aliases": [
+      "Eddie Guerrero wrestler"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Edge",
+    "roster": "Main Roster",
+    "aliases": [
+      "Edge wrestler"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Essa Rios",
+    "roster": "Main Roster",
+    "aliases": [
+      "Essa Rios wrestler",
+      "Mr. Aguila wrestler"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Funaki",
+    "roster": "Main Roster",
+    "aliases": [
+      "Sho Funaki wrestler",
+      "Funaki WWE wrestler"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Gangrel",
+    "roster": "Main Roster",
+    "aliases": [
+      "Gangrel wrestler"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Hardcore Holly",
+    "roster": "Main Roster",
+    "aliases": [
+      "Hardcore Holly wrestler"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Jeff Jarrett",
+    "roster": "Main Roster",
+    "aliases": [
+      "Jeff Jarrett wrestler"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Kane",
+    "roster": "Main Roster",
+    "aliases": [
+      "Kane wrestler"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Ken Shamrock",
+    "roster": "Main Roster",
+    "aliases": [
+      "Ken Shamrock wrestler"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Kurt Angle",
+    "roster": "Main Roster",
+    "aliases": [
+      "Kurt Angle wrestler"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Mankind",
+    "roster": "Main Roster",
+    "aliases": [
+      "Mick Foley Mankind",
+      "Mankind wrestler"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Mideon",
+    "roster": "Main Roster",
+    "aliases": [
+      "Mideon wrestler",
+      "Dennis Knight wrestler"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Owen Hart",
+    "roster": "Main Roster",
+    "aliases": [
+      "Owen Hart wrestler"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Perry Saturn",
+    "roster": "Main Roster",
+    "aliases": [
+      "Perry Saturn wrestler"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Pete Gas",
+    "roster": "Main Roster",
+    "aliases": [
+      "Pete Gas wrestler",
+      "Peter Gasparino wrestler"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Raven",
+    "roster": "Main Roster",
+    "aliases": [
+      "Raven wrestler"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Rikishi",
+    "roster": "HeAT",
+    "aliases": [
+      "Rikishi wrestler"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Road Dogg",
+    "roster": "Main Roster",
+    "aliases": [
+      "Road Dogg wrestler",
+      "Brian James wrestler"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Shawn Michaels",
+    "roster": "Main Roster",
+    "aliases": [
+      "Shawn Michaels wrestler"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Steve Blackman",
+    "roster": "Main Roster",
+    "aliases": [
+      "Steve Blackman wrestler"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Stone Cold Steve Austin",
+    "roster": "Main Roster",
+    "aliases": [
+      "Steve Austin",
+      "Stone Cold Steve Austin"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Taka Michinoku",
+    "roster": "Main Roster",
+    "aliases": [
+      "TAKA Michinoku",
+      "Takao Yoshida wrestler"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Tazz",
+    "roster": "Main Roster",
+    "aliases": [
+      "Tazz wrestler"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Test",
+    "roster": "Main Roster",
+    "aliases": [
+      "Test wrestler"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "The Rock",
+    "roster": "Main Roster",
+    "aliases": [
+      "The Rock wrestler"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "The Undertaker",
+    "roster": "Main Roster",
+    "aliases": [
+      "Undertaker",
+      "Mark Calaway"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Tiger Ali Singh",
+    "roster": "Main Roster",
+    "aliases": [
+      "Tiger Ali Singh wrestler",
+      "Gurjit Singh Hans wrestler"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Triple H",
+    "roster": "Main Roster",
+    "aliases": [
+      "Triple H wrestler"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Val Venis",
+    "roster": "Main Roster",
+    "aliases": [
+      "Val Venis wrestler"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Viscera",
+    "roster": "HeAT",
+    "aliases": [
+      "Viscera wrestler",
+      "Nelson Frazier wrestler"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "William Regal",
+    "roster": "Main Roster",
+    "aliases": [
+      "William Regal wrestler"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "X-Pac",
+    "roster": "Main Roster",
+    "aliases": [
+      "X-Pac wrestler",
+      "Sean Waltman wrestler"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Droz",
+    "roster": "HeAT",
+    "aliases": [
+      "Darren Drozdov wrestler",
+      "Droz wrestler"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Chaz",
+    "roster": "HeAT",
+    "aliases": [
+      "Charles Warrington wrestler",
+      "Chaz WWF wrestler"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Meat",
+    "roster": "HeAT",
+    "aliases": [
+      "Shawn Stasiak wrestler",
+      "Meat WWF wrestler"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Dude Love",
+    "roster": "HeAT",
+    "aliases": [
+      "Mick Foley Dude Love",
+      "Dude Love wrestler"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Tommy Dreamer",
+    "roster": "HeAT",
+    "aliases": [
+      "Tommy Dreamer wrestler"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Rhino",
+    "roster": "HeAT",
+    "aliases": [
+      "Rhyno wrestler",
+      "Terry Gerin wrestler"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Lance Storm",
+    "roster": "HeAT",
+    "aliases": [
+      "Lance Storm wrestler"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Justin Credible",
+    "roster": "HeAT",
+    "aliases": [
+      "Justin Credible wrestler"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Ahmed Johnson",
+    "roster": "HeAT",
+    "aliases": [
+      "Ahmed Johnson wrestler"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Jerry Lynn",
+    "roster": "HeAT",
+    "aliases": [
+      "Jerry Lynn wrestler"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "The Blue Meanie",
+    "roster": "HeAT",
+    "aliases": [
+      "Blue Meanie wrestler",
+      "Brian Heffron wrestler"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Albert",
+    "roster": "Main Roster",
+    "aliases": [
+      "Matt Bloom wrestler",
+      "Albert WWF wrestler"
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Bradshaw",
+    "roster": "Main Roster",
+    "aliases": [
+      "John Layfield wrestler",
+      "Bradshaw wrestler"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Faarooq",
+    "roster": "Main Roster",
+    "aliases": [
+      "Ron Simmons wrestler",
+      "Faarooq"
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Cactus Jack",
+    "roster": "Main Roster",
+    "aliases": [
+      "Mick Foley Cactus Jack",
+      "Cactus Jack wrestler"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Grand Master Sexay",
+    "roster": "Main Roster",
+    "aliases": [
+      "Brian Christopher wrestler",
+      "Grand Master Sexay"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Scotty 2 Hotty",
+    "roster": "Main Roster",
+    "aliases": [
+      "Scotty 2 Hotty",
+      "Scott Garland wrestler"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Jeff Hardy",
+    "roster": "Main Roster",
+    "aliases": [
+      "Jeff Hardy wrestler"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Matt Hardy",
+    "roster": "Main Roster",
+    "aliases": [
+      "Matt Hardy wrestler"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Joey Abs",
+    "roster": "Main Roster",
+    "aliases": [
+      "Joey Abs wrestler",
+      "Jason Arhndt wrestler"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Mark Henry",
+    "roster": "Main Roster",
+    "aliases": [
+      "Mark Henry wrestler"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Mick Foley",
+    "roster": "Main Roster",
+    "aliases": [
+      "Mick Foley wrestler"
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Mosh",
+    "roster": "Main Roster",
+    "aliases": [
+      "Charles Warrington Mosh",
+      "Mosh Headbangers wrestler"
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Thrasher",
+    "roster": "Main Roster",
+    "aliases": [
+      "Glenn Ruth wrestler",
+      "Thrasher Headbangers wrestler"
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Mr. Ass",
+    "roster": "Main Roster",
+    "aliases": [
+      "Billy Gunn",
+      "Monty Sopp wrestler"
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Rodney",
+    "roster": "Main Roster",
+    "aliases": [
+      "Rodney Mean Street Posse wrestler",
+      "Rodney Leinhardt wrestler"
+    ]
+  },
+  {
+    "id": 74,
+    "name": "The Godfather",
+    "roster": "Main Roster",
+    "aliases": [
+      "The Godfather wrestler",
+      "Charles Wright wrestler"
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Buh Buh Ray Dudley",
+    "roster": "Main Roster",
+    "aliases": [
+      "Bubba Ray Dudley",
+      "Mark LoMonaco wrestler"
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Steven Richards",
+    "roster": "Main Roster",
+    "aliases": [
+      "Steven Richards wrestler"
+    ]
+  }
+]
